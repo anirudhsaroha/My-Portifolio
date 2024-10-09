@@ -17,7 +17,7 @@ const About = () => {
         </div>
 
         <p className="mt-10 mb-10">
-          Hey there! I'm a computer science graduate.
+          Hey there! I'm a second-year Computer Science student in Delhi Technological University.
           <br />
           I'm super into Data Structures & Algorithms and Web Development.
           <br />I love the challenge of solving tricky problems with algorithms
