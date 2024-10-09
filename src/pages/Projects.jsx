@@ -45,7 +45,7 @@ const Projects = () => {
           <Project
             title="Project 1"
             subtitle="IMDB Clone Website created using TAILWINDCSS , React"
-            link="https://github.com/anirudhsaroha/MovieApp"
+            link="https://movie-app-one-eta-99.vercel.app"
           />
           <Project
             title="Project 2"
